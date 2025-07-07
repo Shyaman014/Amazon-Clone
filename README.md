@@ -1,37 +1,31 @@
-# 🛍️ Amazon Clone (Frontend Only)
+# 🛒 Amazon Clone UI
 
-This project is a simple **Amazon homepage clone** built using **HTML** and **CSS**. It mimics the layout, structure, and styling of the Amazon website (India region), focusing purely on the frontend.
+A front-end clone of the Amazon homepage built with HTML and CSS. This static project is designed to practice web layout, responsive design, and modern UI elements without any JavaScript or backend logic.
 
----
 
-## 📸 Demo
+## 📸 Screenshot
 
-> [🔗 Live Demo on GitHub Pages](https://your-username.github.io/amazon-clone/)  
-> _(Replace with your actual GitHub Pages link)_
+![Screenshot 2025-07-08 010150](https://github.com/user-attachments/assets/cfdfb303-70a0-4a88-98f4-2d7af262e638)
 
----
+![Screenshot 2025-07-08 010216](https://github.com/user-attachments/assets/1d385815-185b-4eff-8c3b-6abdeabb3042)
 
 ## ✨ Features
 
-- 📦 Fully designed navigation bar with logo, location, and search bar
-- 🔍 Styled search bar with hover effect
-- 👤 Sign-in, Orders, and Cart section
-- 🖼️ Hero section with promotional banner
-- 📚 Product category boxes with images
-- 🦶 Fully designed footer with useful links
+- Responsive Amazon-style navbar with:
+  - Logo
+  - Address selector
+  - Search bar
+  - Sign-in & Returns links
+  - Cart icon
+- Navigation panel for various categories
+- Hero image banner section
+- Multiple product boxes with images and titles
+- Footer with links, information, and branding
 
----
-
-## 💻 Tech Stack
+## 🧰 Technologies Used
 
 - ✅ HTML5
 - ✅ CSS3
 - ✅ Font Awesome (for icons)
 
----
 
-## 🛠️ How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/amazon-clone.git
